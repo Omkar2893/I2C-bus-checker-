@@ -11,8 +11,12 @@ List
 Eg  MWR     xxh     xxh
 
 2.Total number of transactions 
+
 3.Total number of Master writes
+
 4.Total number of Master reads
+
 5.Total number of ACK transactions
+
 6.Total number of NACK transactions
 
